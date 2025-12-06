@@ -46,8 +46,8 @@ KUMO was built to:
 ---
 
 ## 📬 Contact
-Author: Sattu Nithin
-GitHub: https://github.com/sattunithin73
+- Author: Sattu Nithin
+- GitHub: https://github.com/sattunithin73
 <p align="center">Made with ❤️ using HTML, CSS and JavaScript</p> ```
 
 ---
