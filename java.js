@@ -12,3 +12,4 @@ menu.onclick = () => {
     navmenu.classList.toggle('open');
 }
 
+
